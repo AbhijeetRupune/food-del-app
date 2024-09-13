@@ -1,0 +1,37 @@
+{
+  "m1": {
+    "description": "Finest fish and veggies",
+    "name": "Malvani cousine",
+    "price": 700
+  },
+  "m2": {
+    "description": "A mumbai specialty!",
+    "name": "Bhaji and curry",
+    "price": 125
+  },
+  "m3": {
+    "description": "Konkani, tangy, refreshing",
+    "name": "Solkadhi",
+    "price": 35
+  },
+  "m4": {
+    "description": "Healthy...and green...",
+    "name": "Bombil fry",
+    "price": 145
+  },
+  "m5": {
+    "description ": "All delicious food in maharashatra",
+    "name": "Maharashtrian Thali",
+    "price": 200
+  },
+  "m6": {
+    "description": "Sweet Indian desert",
+    "name": "Gulab Jamun",
+    "price": 25
+  },
+  "m7": {
+    "description": "a flatbread stuffed with a sweet lentil",
+    "name": "Puran -Poli",
+    "price": 200
+  }
+}
